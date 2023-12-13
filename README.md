@@ -1,2 +1,2 @@
-# ethereum-bootcamp
-Alchemy Ethereum Developer Bootcamp
+# Alchemy Ethereum Developer Bootcamp
+
